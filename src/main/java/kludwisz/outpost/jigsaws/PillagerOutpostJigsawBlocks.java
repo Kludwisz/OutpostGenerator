@@ -12,7 +12,7 @@ public class PillagerOutpostJigsawBlocks {
 		return JIGSAW_BLOCKS.get(pieceID);
 	}
 	
-    private static final List<List<JigsawBlock>> JIGSAW_BLOCKS = Arrays.<List<JigsawBlock>>asList(
+    private static final List<List<JigsawBlock>> JIGSAW_BLOCKS = Arrays.asList(
 // base_plate id = 0
 			Arrays.asList(
 					new JigsawBlock(2, JointType.ALIGNED, "minecraft:plate_entry", "minecraft:plate_entry", BlockDirection.WEST, BlockDirection.UP, new BPos(0,0,7), 0, 0),
