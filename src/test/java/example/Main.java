@@ -1,4 +1,4 @@
-package kludwisz.outpost;
+package example;
 
 import com.seedfinding.mccore.rand.ChunkRand;
 import kludwisz.outpost.generator.PillagerOutpostGenerator;
